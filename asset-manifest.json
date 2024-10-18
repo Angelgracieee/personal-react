@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Angelgracieee/personal-react/static/css/main.abf7384e.css",
+    "main.js": "/Angelgracieee/personal-react/static/js/main.b1d085d7.js",
+    "static/js/453.2b200461.chunk.js": "/Angelgracieee/personal-react/static/js/453.2b200461.chunk.js",
+    "static/media/my-image.jpg": "/Angelgracieee/personal-react/static/media/my-image.743655401629c50fd649.jpg",
+    "index.html": "/Angelgracieee/personal-react/index.html",
+    "main.abf7384e.css.map": "/Angelgracieee/personal-react/static/css/main.abf7384e.css.map",
+    "main.b1d085d7.js.map": "/Angelgracieee/personal-react/static/js/main.b1d085d7.js.map",
+    "453.2b200461.chunk.js.map": "/Angelgracieee/personal-react/static/js/453.2b200461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf7384e.css",
+    "static/js/main.b1d085d7.js"
+  ]
+}
